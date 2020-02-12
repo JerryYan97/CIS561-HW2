@@ -6,7 +6,7 @@ cornell box:
 
 ![](./JiaruiYan's_Result/cornell_box_test2.png)
 
-##Extra Credit: Spong Bob
+**Extra Credit: Spong Bob**
 
 without smooth blend:
 
